@@ -1,2 +1,2 @@
 # Personal_projects
- a small list of my personal project
+ a small list of my personal projects
